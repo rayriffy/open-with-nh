@@ -11,4 +11,4 @@ When someone add warp gate to anywhere, you can just hilight and right-click it.
 How's it work?
 --------------
 
-![Screenshot](screenshot.jpg)
+![Screenshot](w73jd983.jpg)

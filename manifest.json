@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "Open with NHentai",
+  "description": "Hilight the code and see the future",
+  "version": "1.0",
+  "permissions": [
+    "activeTab",
+	  "https://*.instagram.com/*",
+	  "https://instagram.com/*",
+	  "https://*.twitter.com/*",
+	  "https://twitter.com/*",
+	  "https://*.facebook.com/*",
+	  "https://facebook.com/*",
+    "https://*.reddit.com/*",
+    "https://reddit.com/*",
+    "contextMenus",
+    "tabs"
+  ],
+  "background": {
+    "scripts": [
+      "index.js"
+    ]
+  },
+  "web_accessible_resources": [
+    "index.js"
+  ],
+  "icons": {
+    "16": "nh.jpg",
+    "48": "nh.jpg",
+    "128": "nh.jpg"
+  }
+}
